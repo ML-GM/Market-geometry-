@@ -1,5 +1,7 @@
 # Code description
 
+Paper titled "Exploiting the geometry of the heterogeneous networks: A case study of the Indian stock market"
+
 ## Reference
 
 
