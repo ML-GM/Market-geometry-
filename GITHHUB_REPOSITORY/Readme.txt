@@ -41,6 +41,6 @@ Paper titled "Exploiting the geometry of the heterogeneous networks: A case stud
 ## Contact
 
 For any problem, please contact:
-* Pawanesh Yadav: py506@snu.edu.in
+* Pawanesh Pawanesh: py506@snu.edu.in
 * Charu Sharma: charu.sharma@snu.edu.in
 * Niteesh Sahni: niteesh.sahni@snu.edu.in
